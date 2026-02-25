@@ -1,0 +1,15 @@
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\obj\Debug\net10.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\obj\Debug\net10.0\Lab2.AssemblyInfoInputs.cache
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\obj\Debug\net10.0\Lab2.AssemblyInfo.cs
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\obj\Debug\net10.0\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\obj\Debug\net10.0\Lab2.sourcelink.json
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\bin\Debug\net10.0\Lab2.exe
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\bin\Debug\net10.0\Lab2.deps.json
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\bin\Debug\net10.0\Lab2.runtimeconfig.json
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\bin\Debug\net10.0\Lab2.dll
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\bin\Debug\net10.0\Lab2.pdb
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\obj\Debug\net10.0\Lab2.dll
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\obj\Debug\net10.0\refint\Lab2.dll
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\obj\Debug\net10.0\Lab2.pdb
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\obj\Debug\net10.0\Lab2.genruntimeconfig.cache
+C:\Users\lukaz\lab-0-setup\practice-oop-cs\lab2\Lab2\obj\Debug\net10.0\ref\Lab2.dll
