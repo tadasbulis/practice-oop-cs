@@ -1,0 +1,14 @@
+C:\Users\joris.ori252\Lab1\Lab1.App\bin\Debug\net9.0\Lab1.App.exe
+C:\Users\joris.ori252\Lab1\Lab1.App\bin\Debug\net9.0\Lab1.App.deps.json
+C:\Users\joris.ori252\Lab1\Lab1.App\bin\Debug\net9.0\Lab1.App.runtimeconfig.json
+C:\Users\joris.ori252\Lab1\Lab1.App\bin\Debug\net9.0\Lab1.App.dll
+C:\Users\joris.ori252\Lab1\Lab1.App\bin\Debug\net9.0\Lab1.App.pdb
+C:\Users\joris.ori252\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joris.ori252\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.AssemblyInfoInputs.cache
+C:\Users\joris.ori252\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.AssemblyInfo.cs
+C:\Users\joris.ori252\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.csproj.CoreCompileInputs.cache
+C:\Users\joris.ori252\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.dll
+C:\Users\joris.ori252\Lab1\Lab1.App\obj\Debug\net9.0\refint\Lab1.App.dll
+C:\Users\joris.ori252\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.pdb
+C:\Users\joris.ori252\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.genruntimeconfig.cache
+C:\Users\joris.ori252\Lab1\Lab1.App\obj\Debug\net9.0\ref\Lab1.App.dll
