@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Armandas\\Desktop\\STUDY MATERIAL AND WORK\\Objektinis programavimas\\practice-oop-cs\\lab1\\ArmandasKontrauskas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE66F5-F14C-64B8-2069-141FFA31434C}|Lab1.App\\Lab1.App.csproj|c:\\users\\armandas\\desktop\\study material and work\\objektinis programavimas\\practice-oop-cs\\lab1\\armandaskontrauskas\\lab1.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAE66F5-F14C-64B8-2069-141FFA31434C}|Lab1.App\\Lab1.App.csproj|solutionrelative:lab1.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE66F5-F14C-64B8-2069-141FFA31434C}|Lab1.App\\Lab1.App.csproj|c:\\users\\armandas\\desktop\\study material and work\\objektinis programavimas\\practice-oop-cs\\lab1\\armandaskontrauskas\\lab1.app\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAE66F5-F14C-64B8-2069-141FFA31434C}|Lab1.App\\Lab1.App.csproj|solutionrelative:lab1.app\\tools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE66F5-F14C-64B8-2069-141FFA31434C}|Lab1.App\\Lab1.App.csproj|c:\\users\\armandas\\desktop\\study material and work\\objektinis programavimas\\practice-oop-cs\\lab1\\armandaskontrauskas\\lab1.app\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAE66F5-F14C-64B8-2069-141FFA31434C}|Lab1.App\\Lab1.App.csproj|solutionrelative:lab1.app\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BAE66F5-F14C-64B8-2069-141FFA31434C}|Lab1.App\\Lab1.App.csproj|c:\\users\\armandas\\desktop\\study material and work\\objektinis programavimas\\practice-oop-cs\\lab1\\armandaskontrauskas\\lab1.app\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAE66F5-F14C-64B8-2069-141FFA31434C}|Lab1.App\\Lab1.App.csproj|solutionrelative:lab1.app\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Armandas\\Desktop\\STUDY MATERIAL AND WORK\\Objektinis programavimas\\practice-oop-cs\\lab1\\ArmandasKontrauskas\\Lab1.App\\Program.cs",
+              "RelativeDocumentMoniker": "Lab1.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Armandas\\Desktop\\STUDY MATERIAL AND WORK\\Objektinis programavimas\\practice-oop-cs\\lab1\\ArmandasKontrauskas\\Lab1.App\\Program.cs",
+              "RelativeToolTip": "Lab1.App\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T19:47:56.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Armandas\\Desktop\\STUDY MATERIAL AND WORK\\Objektinis programavimas\\practice-oop-cs\\lab1\\ArmandasKontrauskas\\Lab1.App\\Group.cs",
+              "RelativeDocumentMoniker": "Lab1.App\\Group.cs",
+              "ToolTip": "C:\\Users\\Armandas\\Desktop\\STUDY MATERIAL AND WORK\\Objektinis programavimas\\practice-oop-cs\\lab1\\ArmandasKontrauskas\\Lab1.App\\Group.cs",
+              "RelativeToolTip": "Lab1.App\\Group.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T20:02:33.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Armandas\\Desktop\\STUDY MATERIAL AND WORK\\Objektinis programavimas\\practice-oop-cs\\lab1\\ArmandasKontrauskas\\Lab1.App\\Student.cs",
+              "RelativeDocumentMoniker": "Lab1.App\\Student.cs",
+              "ToolTip": "C:\\Users\\Armandas\\Desktop\\STUDY MATERIAL AND WORK\\Objektinis programavimas\\practice-oop-cs\\lab1\\ArmandasKontrauskas\\Lab1.App\\Student.cs",
+              "RelativeToolTip": "Lab1.App\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T19:56:00.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tools.cs",
+              "DocumentMoniker": "C:\\Users\\Armandas\\Desktop\\STUDY MATERIAL AND WORK\\Objektinis programavimas\\practice-oop-cs\\lab1\\ArmandasKontrauskas\\Lab1.App\\Tools.cs",
+              "RelativeDocumentMoniker": "Lab1.App\\Tools.cs",
+              "ToolTip": "C:\\Users\\Armandas\\Desktop\\STUDY MATERIAL AND WORK\\Objektinis programavimas\\practice-oop-cs\\lab1\\ArmandasKontrauskas\\Lab1.App\\Tools.cs",
+              "RelativeToolTip": "Lab1.App\\Tools.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T19:55:35.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
