@@ -1,0 +1,14 @@
+C:\Users\garra\Lab1\Lab1.App\bin\Debug\net10.0\Lab1.App.exe
+C:\Users\garra\Lab1\Lab1.App\bin\Debug\net10.0\Lab1.App.deps.json
+C:\Users\garra\Lab1\Lab1.App\bin\Debug\net10.0\Lab1.App.runtimeconfig.json
+C:\Users\garra\Lab1\Lab1.App\bin\Debug\net10.0\Lab1.App.dll
+C:\Users\garra\Lab1\Lab1.App\bin\Debug\net10.0\Lab1.App.pdb
+C:\Users\garra\Lab1\Lab1.App\obj\Debug\net10.0\Lab1.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garra\Lab1\Lab1.App\obj\Debug\net10.0\Lab1.App.AssemblyInfoInputs.cache
+C:\Users\garra\Lab1\Lab1.App\obj\Debug\net10.0\Lab1.App.AssemblyInfo.cs
+C:\Users\garra\Lab1\Lab1.App\obj\Debug\net10.0\Lab1.App.csproj.CoreCompileInputs.cache
+C:\Users\garra\Lab1\Lab1.App\obj\Debug\net10.0\Lab1.App.dll
+C:\Users\garra\Lab1\Lab1.App\obj\Debug\net10.0\refint\Lab1.App.dll
+C:\Users\garra\Lab1\Lab1.App\obj\Debug\net10.0\Lab1.App.pdb
+C:\Users\garra\Lab1\Lab1.App\obj\Debug\net10.0\Lab1.App.genruntimeconfig.cache
+C:\Users\garra\Lab1\Lab1.App\obj\Debug\net10.0\ref\Lab1.App.dll
