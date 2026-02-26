@@ -1,0 +1,28 @@
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\bin\Debug\net9.0\Lab1.App.exe
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\bin\Debug\net9.0\Lab1.App.deps.json
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\bin\Debug\net9.0\Lab1.App.runtimeconfig.json
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\bin\Debug\net9.0\Lab1.App.dll
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\bin\Debug\net9.0\Lab1.App.pdb
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.AssemblyInfoInputs.cache
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.AssemblyInfo.cs
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.csproj.CoreCompileInputs.cache
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.dll
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\obj\Debug\net9.0\refint\Lab1.App.dll
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.pdb
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\obj\Debug\net9.0\Lab1.App.genruntimeconfig.cache
+C:\Users\tomas.sei210\source\repos\Lab1\Lab1.App\obj\Debug\net9.0\ref\Lab1.App.dll
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\bin\Debug\net9.0\Lab1.App.exe
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\bin\Debug\net9.0\Lab1.App.deps.json
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\bin\Debug\net9.0\Lab1.App.runtimeconfig.json
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\bin\Debug\net9.0\Lab1.App.dll
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\bin\Debug\net9.0\Lab1.App.pdb
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\obj\Debug\net9.0\Lab1.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\obj\Debug\net9.0\Lab1.App.AssemblyInfoInputs.cache
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\obj\Debug\net9.0\Lab1.App.AssemblyInfo.cs
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\obj\Debug\net9.0\Lab1.App.csproj.CoreCompileInputs.cache
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\obj\Debug\net9.0\Lab1.App.dll
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\obj\Debug\net9.0\refint\Lab1.App.dll
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\obj\Debug\net9.0\Lab1.App.pdb
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\obj\Debug\net9.0\Lab1.App.genruntimeconfig.cache
+C:\Users\tikta\source\repos\practice-oop-cs\lab1\Tomas Seikauskas\Lab1.App\obj\Debug\net9.0\ref\Lab1.App.dll
