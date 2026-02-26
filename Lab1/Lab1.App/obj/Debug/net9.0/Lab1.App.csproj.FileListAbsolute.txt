@@ -1,0 +1,14 @@
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\bin\Debug\net9.0\Lab1.App.exe
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\bin\Debug\net9.0\Lab1.App.deps.json
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\bin\Debug\net9.0\Lab1.App.runtimeconfig.json
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\bin\Debug\net9.0\Lab1.App.dll
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\bin\Debug\net9.0\Lab1.App.pdb
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\obj\Debug\net9.0\Lab1.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\obj\Debug\net9.0\Lab1.App.AssemblyInfoInputs.cache
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\obj\Debug\net9.0\Lab1.App.AssemblyInfo.cs
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\obj\Debug\net9.0\Lab1.App.csproj.CoreCompileInputs.cache
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\obj\Debug\net9.0\Lab1.App.dll
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\obj\Debug\net9.0\refint\Lab1.App.dll
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\obj\Debug\net9.0\Lab1.App.pdb
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\obj\Debug\net9.0\Lab1.App.genruntimeconfig.cache
+C:\Users\rokas.rus650\source\repos\Lab1\Lab1.app\obj\Debug\net9.0\ref\Lab1.App.dll
