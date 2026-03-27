@@ -1,0 +1,14 @@
+C:\Users\Domas.kun778\Lab1\Uzduotis2\bin\Debug\net8.0\Uzduotis2.exe
+C:\Users\Domas.kun778\Lab1\Uzduotis2\bin\Debug\net8.0\Uzduotis2.deps.json
+C:\Users\Domas.kun778\Lab1\Uzduotis2\bin\Debug\net8.0\Uzduotis2.runtimeconfig.json
+C:\Users\Domas.kun778\Lab1\Uzduotis2\bin\Debug\net8.0\Uzduotis2.dll
+C:\Users\Domas.kun778\Lab1\Uzduotis2\bin\Debug\net8.0\Uzduotis2.pdb
+C:\Users\Domas.kun778\Lab1\Uzduotis2\obj\Debug\net8.0\Uzduotis2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domas.kun778\Lab1\Uzduotis2\obj\Debug\net8.0\Uzduotis2.AssemblyInfoInputs.cache
+C:\Users\Domas.kun778\Lab1\Uzduotis2\obj\Debug\net8.0\Uzduotis2.AssemblyInfo.cs
+C:\Users\Domas.kun778\Lab1\Uzduotis2\obj\Debug\net8.0\Uzduotis2.csproj.CoreCompileInputs.cache
+C:\Users\Domas.kun778\Lab1\Uzduotis2\obj\Debug\net8.0\Uzduotis2.dll
+C:\Users\Domas.kun778\Lab1\Uzduotis2\obj\Debug\net8.0\refint\Uzduotis2.dll
+C:\Users\Domas.kun778\Lab1\Uzduotis2\obj\Debug\net8.0\Uzduotis2.pdb
+C:\Users\Domas.kun778\Lab1\Uzduotis2\obj\Debug\net8.0\Uzduotis2.genruntimeconfig.cache
+C:\Users\Domas.kun778\Lab1\Uzduotis2\obj\Debug\net8.0\ref\Uzduotis2.dll
