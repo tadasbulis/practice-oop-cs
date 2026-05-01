@@ -1,0 +1,15 @@
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\bin\Debug\net10.0\Lab5.App.exe
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\bin\Debug\net10.0\Lab5.App.deps.json
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\bin\Debug\net10.0\Lab5.App.runtimeconfig.json
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\bin\Debug\net10.0\Lab5.App.dll
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\bin\Debug\net10.0\Lab5.App.pdb
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\obj\Debug\net10.0\Lab5.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\obj\Debug\net10.0\Lab5.App.AssemblyInfoInputs.cache
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\obj\Debug\net10.0\Lab5.App.AssemblyInfo.cs
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\obj\Debug\net10.0\Lab5.App.csproj.CoreCompileInputs.cache
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\obj\Debug\net10.0\Lab5.App.sourcelink.json
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\obj\Debug\net10.0\Lab5.App.dll
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\obj\Debug\net10.0\refint\Lab5.App.dll
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\obj\Debug\net10.0\Lab5.App.pdb
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\obj\Debug\net10.0\Lab5.App.genruntimeconfig.cache
+C:\Users\ieren\practice-oop-cs-1\lab5\IbrahimGokdemir\Lab5.App\obj\Debug\net10.0\ref\Lab5.App.dll

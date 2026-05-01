@@ -1,0 +1,7 @@
+C:\Users\ieren\practice-oop-cs-1\lab6\IbrahimGokdemir\SimpleStudentApi\publish\SimpleStudentApi.exe
+C:\Users\ieren\practice-oop-cs-1\lab6\IbrahimGokdemir\SimpleStudentApi\publish\appsettings.Development.json
+C:\Users\ieren\practice-oop-cs-1\lab6\IbrahimGokdemir\SimpleStudentApi\publish\appsettings.json
+C:\Users\ieren\practice-oop-cs-1\lab6\IbrahimGokdemir\SimpleStudentApi\publish\SimpleStudentApi.dll
+C:\Users\ieren\practice-oop-cs-1\lab6\IbrahimGokdemir\SimpleStudentApi\publish\SimpleStudentApi.deps.json
+C:\Users\ieren\practice-oop-cs-1\lab6\IbrahimGokdemir\SimpleStudentApi\publish\SimpleStudentApi.runtimeconfig.json
+C:\Users\ieren\practice-oop-cs-1\lab6\IbrahimGokdemir\SimpleStudentApi\publish\SimpleStudentApi.pdb
