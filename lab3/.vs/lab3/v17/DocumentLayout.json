@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81302723-3FCB-4EE2-A370-23D7A57365D4}|lab3\\lab3.csproj|c:\\henrikas\\kk\\objektinis programavimas\\lab3\\lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81302723-3FCB-4EE2-A370-23D7A57365D4}|lab3\\lab3.csproj|solutionrelative:lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81302723-3FCB-4EE2-A370-23D7A57365D4}|lab3\\lab3.csproj|c:\\henrikas\\kk\\objektinis programavimas\\lab3\\lab3\\iaveragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81302723-3FCB-4EE2-A370-23D7A57365D4}|lab3\\lab3.csproj|solutionrelative:lab3\\iaveragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81302723-3FCB-4EE2-A370-23D7A57365D4}|lab3\\lab3.csproj|c:\\henrikas\\kk\\objektinis programavimas\\lab3\\lab3\\simpleaveragestrategy .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81302723-3FCB-4EE2-A370-23D7A57365D4}|lab3\\lab3.csproj|solutionrelative:lab3\\simpleaveragestrategy .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81302723-3FCB-4EE2-A370-23D7A57365D4}|lab3\\lab3.csproj|c:\\henrikas\\kk\\objektinis programavimas\\lab3\\lab3\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81302723-3FCB-4EE2-A370-23D7A57365D4}|lab3\\lab3.csproj|solutionrelative:lab3\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81302723-3FCB-4EE2-A370-23D7A57365D4}|lab3\\lab3.csproj|c:\\henrikas\\kk\\objektinis programavimas\\lab3\\lab3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81302723-3FCB-4EE2-A370-23D7A57365D4}|lab3\\lab3.csproj|solutionrelative:lab3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81302723-3FCB-4EE2-A370-23D7A57365D4}|lab3\\lab3.csproj|c:\\henrikas\\kk\\objektinis programavimas\\lab3\\lab3\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81302723-3FCB-4EE2-A370-23D7A57365D4}|lab3\\lab3.csproj|solutionrelative:lab3\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\lab3\\Group.cs",
+              "RelativeDocumentMoniker": "lab3\\Group.cs",
+              "ToolTip": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\lab3\\Group.cs",
+              "RelativeToolTip": "lab3\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:31:50.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\lab3\\Student.cs",
+              "RelativeDocumentMoniker": "lab3\\Student.cs",
+              "ToolTip": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\lab3\\Student.cs",
+              "RelativeToolTip": "lab3\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:29:50.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\lab3\\StudentService.cs",
+              "RelativeDocumentMoniker": "lab3\\StudentService.cs",
+              "ToolTip": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\lab3\\StudentService.cs",
+              "RelativeToolTip": "lab3\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:28:26.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleAverageStrategy .cs",
+              "DocumentMoniker": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\lab3\\SimpleAverageStrategy .cs",
+              "RelativeDocumentMoniker": "lab3\\SimpleAverageStrategy .cs",
+              "ToolTip": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\lab3\\SimpleAverageStrategy .cs",
+              "RelativeToolTip": "lab3\\SimpleAverageStrategy .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:28:14.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAverageStrategy.cs",
+              "DocumentMoniker": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\lab3\\IAverageStrategy.cs",
+              "RelativeDocumentMoniker": "lab3\\IAverageStrategy.cs",
+              "ToolTip": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\lab3\\IAverageStrategy.cs",
+              "RelativeToolTip": "lab3\\IAverageStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:27:54.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\lab3\\Program.cs",
+              "RelativeDocumentMoniker": "lab3\\Program.cs",
+              "ToolTip": "C:\\Henrikas\\KK\\Objektinis programavimas\\lab3\\lab3\\Program.cs",
+              "RelativeToolTip": "lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:24:28.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
